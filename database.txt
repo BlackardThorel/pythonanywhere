@@ -1,3 +1,0 @@
-email,subject,message
-billybob@gmail.com,You got a purty mouth,I wanna make you squeal like a pig... mmhmm.
-test@gmail.com,test,Test Message
